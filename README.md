@@ -8,14 +8,14 @@ It seems like a good practice to meddle with CSS Grid. So i did!
 
 Nonetheless, not the exact, but here's the closest i could get.
 
+![Screenshot](https://github.com/simply-ying/practice-grid-poster/blob/master/images/screenshot.jpg?raw=true)
+
+
 ### Original Facebook event post
 
 ![Screenshot of Original Facebook post](https://github.com/simply-ying/practice-grid-poster/blob/master/images/inspiration.jpg?raw=true)
 
-### Thinking in Grid
 
-![Screenshot of the grid-lines](https://github.com/simply-ying/practice-grid-poster/blob/master/images/inspiration-lines-col.jpg?raw=true)
-![Screenshot of the grid-lines](https://github.com/simply-ying/practice-grid-poster/blob/master/images/inspiration-lines_row.jpg?raw=true)
 
 ## Setup
 
