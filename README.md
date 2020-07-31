@@ -8,7 +8,7 @@ It seems like a good practice to meddle with CSS Grid. So i did!
 
 Nonetheless, not the exact, but here's the closest i could get.
 
-![Screenshot](https://github.com/simply-ying/practice-grid-poster/blob/master/images/screenshot.jpg?raw=true)
+![Screenshot](https://github.com/simply-ying/practice-grid-poster/blob/master/images/screenshot.PNG?raw=true)
 
 
 ### Original Facebook event post
